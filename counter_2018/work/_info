@@ -1,0 +1,239 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/counter_2018
+vcounter
+Z1 DXx6 sv_std 3 std 0 22 AD7iAPLo6nTIKk<N0eo=D3
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+r1
+!s85 0
+31
+!i10b 1
+!s100 DW2Q6MBo=BZNj82lg?h^d2
+IWT@Yn=JAj>hU_IoGM[N;33
+Z3 !s105 top_svh_unit
+S1
+R0
+w1499345246
+8counter.sv
+Z4 Fcounter.sv
+L0 1
+Z5 OL;L;10.5a;63
+Z6 !s108 1532496098.000000
+Z7 !s107 top.sv|counter_test.sv|counter_env.sv|counter_scb.sv|counter_cov.sv|counter_mon.sv|counter_driver.sv|counter_gen.sv|counter_tx.sv|counter_cfg.sv|rinterface.sv|interface.sv|counter_ref.sv|counter.sv|C:/counter_2018/top.svh|
+Z8 !s90 -reportprogress|300|-work|work|C:/counter_2018/top.svh|
+!i113 0
+Z9 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z10 tCvgOpt 0
+Xcounter_cfg_sv_unit
+Z11 !s115 counter_rif
+Z12 !s115 counter_if
+R1
+!s110 1532496097
+!i10b 1
+!s100 _[?MNUBnGS0oEC]m^]d<J1
+I?HXh4cDE@7fV:aWfXUP5E1
+V?HXh4cDE@7fV:aWfXUP5E1
+!i103 1
+S1
+R0
+w1499345264
+8C:/counter_2018/counter_cfg.sv
+FC:/counter_2018/counter_cfg.sv
+L0 1
+R5
+r1
+!s85 0
+31
+!s108 1532496097.000000
+!s107 C:/counter_2018/counter_cfg.sv|
+!s90 -reportprogress|300|-work|work|C:/counter_2018/counter_cfg.sv|
+!i113 0
+R9
+R10
+Ycounter_if
+R1
+R2
+r1
+!s85 0
+31
+!i10b 1
+!s100 G0ah?3BcCPXi2S`IkR^<m2
+I94l>Li8ZzKAQkdRVf0C9M1
+R3
+S1
+R0
+w1499341696
+8interface.sv
+Z13 Finterface.sv
+L0 1
+R5
+R6
+R7
+R8
+!i113 0
+R9
+R10
+vcounter_ref
+R1
+R2
+r1
+!s85 0
+31
+!i10b 1
+!s100 IYOd7;_0^f64e0KN<nDHU1
+Izi4[jza`aO]_V69FXeG<m3
+R3
+S1
+R0
+w1499345236
+8counter_ref.sv
+Z14 Fcounter_ref.sv
+L0 1
+R5
+R6
+R7
+R8
+!i113 0
+R9
+R10
+Ycounter_rif
+R1
+R2
+r1
+!s85 0
+31
+!i10b 1
+!s100 4;Z8QM?J[PFnzo28iAI`F1
+I463GKXBQUa]5[WNIVf0AW3
+R3
+S1
+R0
+w1499341230
+8rinterface.sv
+Z15 Frinterface.sv
+L0 1
+R5
+R6
+R7
+R8
+!i113 0
+R9
+R10
+Xcounter_tx_sv_unit
+R1
+!s110 1532496098
+!i10b 1
+!s100 V1?Eo9ThcS51@@9Jmd5B50
+I7YjY_YOc`KU8IRGF93LJT0
+V7YjY_YOc`KU8IRGF93LJT0
+!i103 1
+S1
+R0
+w1499345244
+8C:/counter_2018/counter_tx.sv
+FC:/counter_2018/counter_tx.sv
+L0 1
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/counter_2018/counter_tx.sv|
+!s90 -reportprogress|300|-work|work|C:/counter_2018/counter_tx.sv|
+!i113 0
+R9
+R10
+4tb_top
+R1
+Z16 DXx4 work 12 top_svh_unit 0 22 25bEGP3XSelYgIU[_N:^@2
+R2
+r1
+!s85 0
+31
+!i10b 1
+!s100 `=l`KaMa7DnLV]?IlRh0e1
+IOWVUM7kc7`2FQSbkf9dOj3
+R3
+S1
+R0
+w1499345276
+8counter_test.sv
+Z17 Fcounter_test.sv
+L0 1
+R5
+R6
+R7
+R8
+!i113 0
+R9
+R10
+vtop
+R1
+R16
+R2
+r1
+!s85 0
+31
+!i10b 1
+!s100 AWmPE1l3U3iX@8e?>L3eF3
+IYP_>gJ4?^5cCzDC`EJ0>o2
+R3
+S1
+R0
+w1499345278
+8top.sv
+Z18 Ftop.sv
+L0 1
+R5
+R6
+R7
+R8
+!i113 0
+R9
+R10
+Xtop_svh_unit
+R11
+R12
+R1
+V25bEGP3XSelYgIU[_N:^@2
+r1
+!s85 0
+31
+!i10b 1
+!s100 mGXcBHVN2c^fRV0X2GODA3
+I25bEGP3XSelYgIU[_N:^@2
+!i103 1
+S1
+R0
+w1499409682
+8C:/counter_2018/top.svh
+FC:/counter_2018/top.svh
+R4
+R14
+R13
+R15
+Fcounter_cfg.sv
+Fcounter_tx.sv
+Fcounter_gen.sv
+Fcounter_driver.sv
+Fcounter_mon.sv
+Fcounter_cov.sv
+Fcounter_scb.sv
+Fcounter_env.sv
+R17
+R18
+L0 1
+R5
+R6
+R7
+R8
+!i113 0
+R9
+R10
